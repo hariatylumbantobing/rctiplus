@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>login email and pw incorrect</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3b9b27f6-358e-42c5-ae46-8916fffb5830</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>invalidemail%40invalid dududu98</data>
+   <data>invalid dududu98</data>
+   <data>000dwuha dududu98</data>
+   <data>00da%5E**%5E dududu98</data>
+   <data>0000 dududu98</data>
+   <data>%2B628 dududu98</data>
+   <data>%2B62822 dududu98</data>
+   <data>%2B62822*%26%26* dududu98</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>usname</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>pwd</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

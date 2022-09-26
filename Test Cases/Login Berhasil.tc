@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12ee9950-a27a-497c-80be-85a156eb9fd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccdd249f-83fa-4d25-8642-19b99a3b0069</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89e832c4-3ea0-46a7-984d-455bc25d8c68</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'listform@gmail.com'</defaultValue>
+      <description></description>
+      <id>ccdd249f-83fa-4d25-8642-19b99a3b0069</id>
+      <masked>false</masked>
+      <name>usname</name>
+   </variable>
+   <variable>
+      <defaultValue>'dududu98'</defaultValue>
+      <description></description>
+      <id>89e832c4-3ea0-46a7-984d-455bc25d8c68</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tombol_login_di_homepage</name>
+   <tag></tag>
+   <elementGuidId>e0eb436e-4370-4209-b9f0-5d883619051f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/ul/li/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-primary.button-login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>349ccc20-8b07-443a-a5bc-7b95806e27f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary button-login</value>
+      <webElementGuid>84c8a770-8cd2-4ad2-980f-147bd2ad1ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed2ecc44-61f8-45e9-a30f-db528970c6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ 
+LOGIN
+</value>
+      <webElementGuid>b263e48f-0302-470a-901b-de5fe4dc4c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;main-wrapper&quot;]/nav[@class=&quot;navbar navbar-icon-top navbar-expand-md bg-faded fixed-top transparent-background&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nostyle&quot;]/div[@class=&quot;btn btn-primary button-login&quot;]</value>
+      <webElementGuid>fb534fea-0167-4cad-bdaa-8b99b456edb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li/a/div</value>
+      <webElementGuid>deee985a-c4a2-4531-beda-353838b7ff48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RCTI+'])[1]/preceding::div[1]</value>
+      <webElementGuid>0ada7650-69a3-454b-8938-c4d1c76af880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>4881bb64-4639-440e-b07c-9de8d329154c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+ 
+LOGIN
+' or . = '
+ 
+LOGIN
+')]</value>
+      <webElementGuid>620be98e-5f5f-4761-8ff6-709d8e4a0837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

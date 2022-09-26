@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>email or phone invalid</name>
+   <tag></tag>
+   <elementGuidId>ec2292d2-7ad9-4c4e-8b60-43080218b4d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>e5b9aaf8-8d75-4298-b880-811e05971ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>ca32f5c0-cce1-4619-978e-ecb08da7a98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please try again, email or phone is incorrect</value>
+      <webElementGuid>07cf0aa2-c4f2-4876-ab42-080ec088ba1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[1]/div[@class=&quot;form-group movable-input&quot;]/div[@class=&quot;form-group input-group&quot;]/small[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>1e868bf3-9fd5-48b4-ac03-622e1384fd62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div/div/small</value>
+      <webElementGuid>c583ee50-1e70-4f2b-a6bb-0ec5295f24f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::small[1]</value>
+      <webElementGuid>e4ef735e-1093-4171-9eec-49bbadc788b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or Phone Number'])[1]/following::small[1]</value>
+      <webElementGuid>54e8b989-f12a-4a11-94e6-aab959a5181e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::small[1]</value>
+      <webElementGuid>54aa1f20-0181-409b-8bc7-a6f3165d1631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/preceding::small[2]</value>
+      <webElementGuid>9d61eef3-38a8-4945-8cd9-c0c723a3c1ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please try again, email or phone is incorrect']/parent::*</value>
+      <webElementGuid>954c2ad7-e9bc-4601-8929-0c8aed0292fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>ce1d8da2-c434-4f78-bd1f-5fc75a3c86f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Please try again, email or phone is incorrect' or . = 'Please try again, email or phone is incorrect')]</value>
+      <webElementGuid>fc51e5d6-4245-40e9-acaa-7b2bbdf91357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

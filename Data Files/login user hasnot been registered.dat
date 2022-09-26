@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>login user hasnot been registered</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2a5bc25d-76c8-4a56-bd9c-d55ed5d9ddaa</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>invalidemail%40gmail.com dududu98</data>
+   <data>listform%40gmail.com pwnyasalahnih</data>
+   <data>000000 dududu98</data>
+   <data>%2B6282290 dududu98</data>
+   <data>082284546418 pwnyasalahnih</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>usname</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>pwd</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
