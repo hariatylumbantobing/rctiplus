@@ -9,19 +9,18 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
    <data>invalidemail%40gmail.com dududu98</data>
-   <data>listform%40gmail.com pwnyasalahnih</data>
+   <data>listformngehe%40gmail.com pwnyasalahnih</data>
    <data>000000 dududu98</data>
    <data>%2B6282290 dududu98</data>
-   <data>082284546418 pwnyasalahnih</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>usname</name>
-      <size>5</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>pwd</name>
-      <size>5</size>
+      <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

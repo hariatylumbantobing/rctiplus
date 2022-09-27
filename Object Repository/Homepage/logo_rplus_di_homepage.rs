@@ -6,6 +6,10 @@
    <elementGuidId>a7834c75-3813-4cdf-9ebc-fdaea9d57b7d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://rc-webdv2.rctiplus.com/assets/image/elements/svgv3/logo-nav-rcti.svg' and @alt = 'Logo RCTI+']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//img[@alt='Logo RCTI+']</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>img.mb-2</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>48b0021f-2ba0-4777-8ac2-d7a1891dd52d</webElementGuid>
+      <webElementGuid>fec14223-fd45-4458-8863-dc4be777a945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://rc-webdv2.rctiplus.com/assets/image/elements/svgv3/logo-nav-rcti.svg</value>
-      <webElementGuid>edca4b35-a419-4d60-9208-1a9b4986ade1</webElementGuid>
+      <webElementGuid>bd4fba89-6201-48b1-9310-eab4b779b083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mb-2</value>
-      <webElementGuid>8d1b9d00-09ee-4991-a9fc-854d82501ed2</webElementGuid>
+      <webElementGuid>e4a1d740-eb82-4813-98e4-28830a45955a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>width</name>
       <type>Main</type>
       <value>116.71px</value>
-      <webElementGuid>b3d6390c-2974-42a4-935e-070cb5c4a6ed</webElementGuid>
+      <webElementGuid>a78e9815-2968-4c8b-bfc3-b29087bd4b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>height</name>
       <type>Main</type>
       <value>39.88px</value>
-      <webElementGuid>550a8d4e-4411-452b-8728-baab72699cdb</webElementGuid>
+      <webElementGuid>4a69ec51-76f5-4b14-9992-d719a8011e6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Logo RCTI+</value>
-      <webElementGuid>2e4068d7-bd0f-4a60-a3e9-11e119715d26</webElementGuid>
+      <webElementGuid>9c90cc50-971d-458a-afa0-3903533f8360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;main-wrapper&quot;]/nav[@class=&quot;navbar navbar-icon-top navbar-expand-md bg-faded fixed-top&quot;]/a[@class=&quot;d-flex mr-auto&quot;]/img[@class=&quot;mb-2&quot;]</value>
-      <webElementGuid>60cecb2b-f048-4991-95ea-b66688aa60eb</webElementGuid>
+      <webElementGuid>7da34b97-5485-4726-9774-d418f5b6a5f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Logo RCTI+']</value>
-      <webElementGuid>7417e436-465d-4d61-9278-979a8e4c1a85</webElementGuid>
+      <webElementGuid>06d31b2f-00ca-460a-aef5-423c4d2501c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>8f2c2239-8835-4c7f-bccd-6abd8ea2769d</webElementGuid>
+      <webElementGuid>d7ceac01-15a7-4e18-a2f5-26a489ab6917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://rc-webdv2.rctiplus.com/assets/image/elements/svgv3/logo-nav-rcti.svg' and @alt = 'Logo RCTI+']</value>
-      <webElementGuid>0da66b4b-f08f-4907-9b61-484013067774</webElementGuid>
+      <webElementGuid>ab9b9470-5553-418e-9966-41a08bc9726a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

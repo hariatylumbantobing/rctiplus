@@ -18,6 +18,10 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+
 WebUI.deleteAllCookies()
-WebUI.navigateToUrl('https://rc-webdv2.rctiplus.com/')
+
+WebUI.navigateToUrl('https://rc-webd.rctiplus.com/')
+
 WebUI.delay(2)
+

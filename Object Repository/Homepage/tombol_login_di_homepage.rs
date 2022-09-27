@@ -6,6 +6,10 @@
    <elementGuidId>e0eb436e-4370-4209-b9f0-5d883619051f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;main-wrapper&quot;]/nav[@class=&quot;navbar navbar-icon-top navbar-expand-md bg-faded fixed-top transparent-background&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nostyle&quot;]/div[@class=&quot;btn btn-primary button-login&quot;][count(. | //*[@role = 'button']) = count(//*[@role = 'button'])]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='navbarSupportedContent']/ul/li/a/div</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>div.btn.btn-primary.button-login</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>349ccc20-8b07-443a-a5bc-7b95806e27f0</webElementGuid>
+      <webElementGuid>9b230a5e-48cc-480b-a870-85880103ed5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,18 +34,18 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary button-login</value>
-      <webElementGuid>84c8a770-8cd2-4ad2-980f-147bd2ad1ae6</webElementGuid>
+      <webElementGuid>43e327a2-3939-4114-9da9-cdedaf50c38a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ed2ecc44-61f8-45e9-a30f-db528970c6ef</webElementGuid>
+      <webElementGuid>454b0ec5-8ae3-494e-a8e4-8358f92748e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -49,15 +53,15 @@
  
 LOGIN
 </value>
-      <webElementGuid>b263e48f-0302-470a-901b-de5fe4dc4c3b</webElementGuid>
+      <webElementGuid>7a646c50-80e7-47b8-9adf-b94af8f95f73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;main-wrapper&quot;]/nav[@class=&quot;navbar navbar-icon-top navbar-expand-md bg-faded fixed-top transparent-background&quot;]/div[@id=&quot;navbarSupportedContent&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nostyle&quot;]/div[@class=&quot;btn btn-primary button-login&quot;]</value>
-      <webElementGuid>fb534fea-0167-4cad-bdaa-8b99b456edb3</webElementGuid>
+      <webElementGuid>e61ae285-8722-4ac4-913b-316cd0734210</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +69,7 @@ LOGIN
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/ul/li/a/div</value>
-      <webElementGuid>deee985a-c4a2-4531-beda-353838b7ff48</webElementGuid>
+      <webElementGuid>eca67ef1-d578-4965-ae6a-c51c2204c42c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +77,7 @@ LOGIN
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RCTI+'])[1]/preceding::div[1]</value>
-      <webElementGuid>0ada7650-69a3-454b-8938-c4d1c76af880</webElementGuid>
+      <webElementGuid>ce94b775-3973-4200-9030-2c95f953aec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +85,7 @@ LOGIN
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>4881bb64-4639-440e-b07c-9de8d329154c</webElementGuid>
+      <webElementGuid>9c55c0a0-472c-4ea6-9f52-c604d70a8726</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +99,6 @@ LOGIN
  
 LOGIN
 ')]</value>
-      <webElementGuid>620be98e-5f5f-4761-8ff6-709d8e4a0837</webElementGuid>
+      <webElementGuid>9d505c9d-ebc4-4531-88d6-d7f5a3288bac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
