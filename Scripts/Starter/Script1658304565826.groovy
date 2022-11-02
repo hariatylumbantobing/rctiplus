@@ -25,3 +25,5 @@ WebUI.navigateToUrl('https://rc-webd.rctiplus.com/')
 
 WebUI.delay(2)
 
+//WebUI.maximizeWindow()
+WebUI.delay(2)

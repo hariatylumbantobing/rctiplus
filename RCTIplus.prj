@@ -6,6 +6,7 @@
    <UUID>a994f41a-8972-49c3-b478-40d53dd035ce</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/qcrcti/git/rctiplus/RCTIplus.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
