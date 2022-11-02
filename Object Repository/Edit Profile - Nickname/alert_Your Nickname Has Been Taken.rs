@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>email or phone invalid</name>
+   <name>alert_Your Nickname Has Been Taken</name>
    <tag></tag>
-   <elementGuidId>ec2292d2-7ad9-4c4e-8b60-43080218b4d5</elementGuidId>
+   <elementGuidId>6ba6ca0e-93e7-4985-8319-3feb32332833</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='form']/div/div/div/small</value>
+         <value>//div[@id='nickName']/div/div/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>small.text-danger</value>
+         <value>span.message-error</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>small</value>
-      <webElementGuid>e5b9aaf8-8d75-4298-b880-811e05971ec6</webElementGuid>
+      <value>span</value>
+      <webElementGuid>ce2cf26f-5474-4492-a097-f2370e07faf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-danger</value>
-      <webElementGuid>ca32f5c0-cce1-4619-978e-ecb08da7a98d</webElementGuid>
+      <value>message-error</value>
+      <webElementGuid>654c60ad-1a61-446a-8666-ae9918453c78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Please try again, email or phone is incorrect</value>
-      <webElementGuid>07cf0aa2-c4f2-4876-ab42-080ec088ba1d</webElementGuid>
+      <value>Your Nickname Has Been Taken</value>
+      <webElementGuid>6ad62dff-366b-485c-8745-3f5da40ed92d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form&quot;)/div[1]/div[@class=&quot;form-group movable-input&quot;]/div[@class=&quot;form-group input-group&quot;]/small[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>1e868bf3-9fd5-48b4-ac03-622e1384fd62</webElementGuid>
+      <value>id(&quot;nickName&quot;)/div[@class=&quot;edit-profile&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;message-error&quot;]</value>
+      <webElementGuid>4d8ed615-4d7d-4fac-a4de-700d917d2db1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form']/div/div/div/small</value>
-      <webElementGuid>c583ee50-1e70-4f2b-a6bb-0ec5295f24f1</webElementGuid>
+      <value>//div[@id='nickName']/div/div/span[2]</value>
+      <webElementGuid>9e467eab-9978-4144-957f-2a65254a236d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::small[1]</value>
-      <webElementGuid>e4ef735e-1093-4171-9eec-49bbadc788b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username has never been used with another user'])[1]/following::span[1]</value>
+      <webElementGuid>27ec9a79-41e2-46ba-9b1c-cd9d84dbaaee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or Phone Number'])[1]/following::small[1]</value>
-      <webElementGuid>54e8b989-f12a-4a11-94e6-aab959a5181e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You may change your username back after 14 days'])[1]/following::span[1]</value>
+      <webElementGuid>4defca1e-586c-426d-8c02-b0e277b74d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::small[1]</value>
-      <webElementGuid>54aa1f20-0181-409b-8bc7-a6f3165d1631</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e8eeb6b-84f8-4494-b8d2-7c9dccc50f4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/preceding::small[2]</value>
-      <webElementGuid>9d61eef3-38a8-4945-8cd9-c0c723a3c1ab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[2]/preceding::span[1]</value>
+      <webElementGuid>0a481dcb-0393-4fbe-90ce-7bc3c9ea81b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Please try again, email or phone is incorrect']/parent::*</value>
-      <webElementGuid>954c2ad7-e9bc-4601-8929-0c8aed0292fe</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Your Nickname Has Been Taken']/parent::*</value>
+      <webElementGuid>1636dc3c-d301-46cc-9c9a-200650c44c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//small</value>
-      <webElementGuid>ce1d8da2-c434-4f78-bd1f-5fc75a3c86f5</webElementGuid>
+      <value>//span[2]</value>
+      <webElementGuid>d50c6492-bc5c-4019-bd92-7fa1414ccfaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//small[(text() = 'Please try again, email or phone is incorrect' or . = 'Please try again, email or phone is incorrect')]</value>
-      <webElementGuid>fc51e5d6-4245-40e9-acaa-7b2bbdf91357</webElementGuid>
+      <value>//span[(text() = 'Your Nickname Has Been Taken' or . = 'Your Nickname Has Been Taken')]</value>
+      <webElementGuid>edd0b787-c943-4d31-ae6a-9f51bedd449e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

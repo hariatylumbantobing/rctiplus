@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login Gagal</name>
+   <name>next prev button homepage</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a1a19255-4666-4895-9e74-166aca0f5fd7</testCaseGuid>
+   <testCaseGuid>e3653f03-5582-4bc8-8167-e28684201c20</testCaseGuid>
 </TestCaseEntity>

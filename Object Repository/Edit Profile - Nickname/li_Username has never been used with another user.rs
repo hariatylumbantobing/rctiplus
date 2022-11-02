@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Username has never been used with another user</name>
+   <tag></tag>
+   <elementGuidId>75e1c964-81a8-4fbf-ba29-e41007180a84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nickName']/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ba5280f9-45ab-4d9e-97aa-327c23ae1e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Username has never been used with another user </value>
+      <webElementGuid>a4dcb2a0-75c1-4b64-8cc7-2d61174fde53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nickName&quot;)/div[@class=&quot;edit-profile&quot;]/div[@class=&quot;form-group&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>10ae459b-857a-45a6-9a77-1c75e3a36e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nickName']/div/div/ul/li[2]</value>
+      <webElementGuid>eb639cb9-0630-477b-b432-1db00741b755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You may change your username back after 14 days'])[1]/following::li[1]</value>
+      <webElementGuid>e9deb149-3f67-49fc-a4af-33eb6cf7d0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nickname (Live chat)'])[1]/following::li[2]</value>
+      <webElementGuid>39e955e5-3cd5-4a56-bb80-3ce6464c00fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::li[1]</value>
+      <webElementGuid>306aaf11-ea74-488e-b76d-c0af4895e782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[2]/preceding::li[1]</value>
+      <webElementGuid>3559a545-0f11-4837-b15f-09172413cefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username has never been used with another user']/parent::*</value>
+      <webElementGuid>39049ede-73b3-417a-97ea-8dc5f7541c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[2]</value>
+      <webElementGuid>00d5d79b-9ed4-436d-86ef-203150cd0fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Username has never been used with another user ' or . = ' Username has never been used with another user ')]</value>
+      <webElementGuid>93311fe2-9605-493e-a57d-0d34584131f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Gagal - email phone invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1a19255-4666-4895-9e74-166aca0f5fd7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a8f35b4-c38e-4fec-b320-9a5b0e8001d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f451efa3-531c-4c85-80a7-7881446f02b4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('login email phone incorrect').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>2a8f35b4-c38e-4fec-b320-9a5b0e8001d5</id>
+      <masked>false</masked>
+      <name>usname</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('login email phone incorrect').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f451efa3-531c-4c85-80a7-7881446f02b4</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>

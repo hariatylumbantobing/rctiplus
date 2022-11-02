@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Logout</name>
+   <tag></tag>
+   <elementGuidId>5543aab4-cebb-41c4-8da0-ea8299e2b5ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@onclick=&quot;location.href='https://rc-webd.rctiplus.com/logout'; clickInside();&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>955029d9-92f3-4930-a649-19baf0d30ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-menu-item</value>
+      <webElementGuid>6c8e0728-fbcd-4d23-aba9-5d3c19058255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='https://rc-webd.rctiplus.com/logout'; clickInside();</value>
+      <webElementGuid>b670eb45-a647-43e8-86a8-122b2bf4f1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>9ad6f9ba-489c-4a73-ba7d-29da6ec32c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-wrapper&quot;)/div[@id=&quot;profile_login&quot;]/div[@class=&quot;profile-box&quot;]/ul[@class=&quot;profile_ul&quot;]/li[@class=&quot;profile-menu-item&quot;]</value>
+      <webElementGuid>b0e33761-b244-4644-8d7b-08bd1b6447ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@onclick=&quot;location.href='https://rc-webd.rctiplus.com/logout'; clickInside();&quot;]</value>
+      <webElementGuid>b180f500-a999-48cf-a6f7-c42d329014b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile_login']/div[2]/ul/li[2]</value>
+      <webElementGuid>dd330fb7-9eef-46ee-b00b-40b58147b10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya Juara 2 bro'])[2]/following::li[2]</value>
+      <webElementGuid>faaad407-14b7-48c2-9dc6-e61d81cf72c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Now Playing'])[1]/preceding::li[1]</value>
+      <webElementGuid>934ea317-40b8-40e4-9cc4-4d645eb22cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>4bf8999d-d298-430f-a459-c0a7a1962649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>0abed689-d285-404d-bde1-add1fe1efedc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
